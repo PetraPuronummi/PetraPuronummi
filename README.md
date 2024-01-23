@@ -1,16 +1,14 @@
-### Hi there 👋
-
+<picture>
+ <img alt="picture" src="![Untitled](https://github.com/PetraPuronummi/PetraPuronummi/assets/149145778/e50004fb-4fc7-408e-9d5b-36adb31395ec)
+">
+</picture>
+### Hi 👋 
+###and welcome to my gitHub page ✨
 <!--
 **PetraPuronummi/PetraPuronummi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently studying **Business Information Technology** at Häme university of applied sciences 📚
+I *hope* to graduate from my bachelor's degree in the year 2025 🤞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁ Every work that produces small feelings of success are fun to do ☁
+
