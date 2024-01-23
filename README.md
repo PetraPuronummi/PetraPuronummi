@@ -6,6 +6,6 @@
 
  Here on my pages you will find some of the small work I have done.
  
-☁ Every work that produces small feelings of success are fun to do ☁
+☁ *Every work that produces small feelings of success are much more fun to do* ☁
 
  ![](https://github.com/PetraPuronummi/PetraPuronummi/blob/main/Disney%20Frozen.gif)
